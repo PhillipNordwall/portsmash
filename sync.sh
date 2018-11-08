@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OPENSSL=/usr/local/ssl/bin/openssl
+OPENSSL=/usr/bin/openssl
 KEY_CURVE=secp384r1
 KEY_FILE=$KEY_CURVE.pem
 
